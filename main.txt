@@ -1,1 +1,2 @@
 第 1 行数据 by git_exer_1.
+第 2 行数据 by git_exer_2.
